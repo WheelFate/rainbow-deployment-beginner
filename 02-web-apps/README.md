@@ -4,7 +4,7 @@ We created 3 simple versions of a web app using **Replit**, each showing a sligh
 
 ## 🔗 Live Demo Links
 
-- 🟢 [Version 1 – 🌱](https://your-v1-url.repl.co)  
+- 🟢 [Version 1 – 🌱]([https://your-v1-url.repl.co](https://replit.com/@iamdakheel/rainbow-v1))  
   A green-themed homepage with the message “Hello from Version 1”.
 
 - 🔵 [Version 2 – 🚀](https://your-v2-url.repl.co)  
