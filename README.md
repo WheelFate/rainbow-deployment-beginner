@@ -42,6 +42,28 @@ Welcome to the easiest way to learn **Rainbow Deployment** using **free, 100% on
 
 ---
 
+## 📎 Quick Links
+
+- 🔁 **Live Router:**  
+  [Rainbow Traffic Router](https://replit.com/@iamdakheel/rainbow-router)
+
+- 📊 **Visitor Stats (per browser):**  
+  [View Local Stats](https://replit.com/@iamdakheel/rainbow-router#stats.html)
+
+> These show how many times you've been routed to each version using `localStorage`.
+
+---
+
+## ⚠️ Replit Preview Issue
+
+> If you run the router inside Replit and see:  
+> “**replit.com refused to connect**” — don’t worry!
+> 
+> ✅ Just click **"Open in a new tab"** – it works perfectly there.  
+> (Redirects don’t run in Replit’s preview pane due to how it handles iframes.)
+
+---
+
 ## 🤝 Contributing
 
 This is a learning project! Contributions, ideas and improvements are welcome. 😊
@@ -51,27 +73,3 @@ This is a learning project! Contributions, ideas and improvements are welcome. �
 ## 📄 License
 
 MIT — Free to copy, learn, remix, and share.
-
----
-
-## 🌈 Try the Rainbow Deployment Now!
-
-We’ve built a simple routing page that randomly redirects users to one of the deployed app versions (v1, v2, or v3), simulating live traffic in a real Rainbow Deployment.
-
-🔀 **Try it here**:  
-👉 [Rainbow Traffic Router](https://replit.com/@iamdakheel/rainbow-router)
-
-🧠 How it works:
-- 50% chance → Version 1  
-- 30% chance → Version 2  
-- 20% chance → Version 3  
-
----
-
-### ⚠️ Replit Preview Issue
-
-> If you run the router inside Replit and see a message like  
-> "**replit.com refused to connect**", don’t worry!
-> 
-> Just click **"Open in a new tab"** – it works perfectly there.  
-> (Redirects don’t work in Replit’s preview pane due to browser security.)
