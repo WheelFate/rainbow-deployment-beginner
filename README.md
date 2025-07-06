@@ -5,7 +5,6 @@
 
 - 🧪 Try the Rainbow Router: [Live Router](https://replit.com/@iamdakheel/rainbow-router)
 - 🌱 View Version 1: [rainbow-v1](https://replit.com/@iamdakheel/rainbow-v1)
-- 📖 Full Guide: [GitHub Repo](https://github.com/yourusername/rainbow-deployment-beginner)
 
 Welcome to the easiest way to learn **Rainbow Deployment** using **free, 100% online tools** — no downloads, installations, or command line required.
 
